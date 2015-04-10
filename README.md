@@ -6,12 +6,12 @@
 * <font color = green>自由及開放原始碼</font>顯示卡驅動程式(MIT授權條款)
 * 利用<font color= red>逆向工程</font>分析研究Nvidia的專有Linux驅動程式
 ## 已支援的界面
-* 渲染API
-1 . Direct3D: 只能在Linux上與Wine一起使用
-2 . OpenGL
+* 渲染API <br>
+1 . Direct3D: 只能在Linux上與Wine一起使用 <br>
+2 . OpenGL <br>
 * 視訊加速
-* 計算用API
-1 . OpenCL
+* 計算用API <br>
+1 . OpenCL <br>
 2 . CUDA
 * CUDA: 不支援
 
